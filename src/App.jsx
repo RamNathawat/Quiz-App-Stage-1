@@ -13,7 +13,7 @@ function App() {
      <QuizComponent/>
      <ResultComponent/>
     </>
-  )
+  ) 
 }
 
 export default App
